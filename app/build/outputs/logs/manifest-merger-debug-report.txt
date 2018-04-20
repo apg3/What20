@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/017e0343ba6c3f6ccb908efacee5d8bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/9a14e762d9ca6996eaa5168ba8bc7811/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4b7ad02b2ede5c0f8d9b9b1523385173/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33e5a9a358d7388ed4244fc7bba0eeaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b5ac5b9ca2851d811f6b0904696032c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d2966725f6b3bad929bc8b5a587d6c56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3c81da27406dd2cc9f7b91dd63d1e4d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2d9e2ccd668d3707a82df60b87029ea7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fdf0069cb7d9dd04d4b1387935644127/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5b26bcd22e8d201f2c19d91e75dc62c1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/690c6aae50ae7ce64a0d75af18a459b7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a45263755fee01138b56222888ed40a7/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/9a14e762d9ca6996eaa5168ba8bc7811/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/9a14e762d9ca6996eaa5168ba8bc7811/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:11:9-40
+activity#edu.illinois.cs.cs125.what20.MainActivity
+ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/017e0343ba6c3f6ccb908efacee5d8bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/017e0343ba6c3f6ccb908efacee5d8bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/9a14e762d9ca6996eaa5168ba8bc7811/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/9a14e762d9ca6996eaa5168ba8bc7811/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4b7ad02b2ede5c0f8d9b9b1523385173/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4b7ad02b2ede5c0f8d9b9b1523385173/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33e5a9a358d7388ed4244fc7bba0eeaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33e5a9a358d7388ed4244fc7bba0eeaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b5ac5b9ca2851d811f6b0904696032c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b5ac5b9ca2851d811f6b0904696032c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d2966725f6b3bad929bc8b5a587d6c56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d2966725f6b3bad929bc8b5a587d6c56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3c81da27406dd2cc9f7b91dd63d1e4d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3c81da27406dd2cc9f7b91dd63d1e4d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2d9e2ccd668d3707a82df60b87029ea7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2d9e2ccd668d3707a82df60b87029ea7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fdf0069cb7d9dd04d4b1387935644127/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fdf0069cb7d9dd04d4b1387935644127/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5b26bcd22e8d201f2c19d91e75dc62c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5b26bcd22e8d201f2c19d91e75dc62c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/690c6aae50ae7ce64a0d75af18a459b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/690c6aae50ae7ce64a0d75af18a459b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a45263755fee01138b56222888ed40a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ashleygrudzinski/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a45263755fee01138b56222888ed40a7/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ashleygrudzinski/AndroidStudioProjects/What20/app/src/main/AndroidManifest.xml
